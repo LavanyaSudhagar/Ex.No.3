@@ -1,45 +1,75 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-
+# Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
+### REGISTER NUMBER : 212222060294
+### Aim: Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+### Algorithm:  
+The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+### Select Prompting Techniques: 
+Choose a variety of prompting methods including:
+
+1. Zero-shot prompting
+
+2. Few-shot prompting
+
+3. Chain-of-thought prompting
+
+4. Role-based prompting
+
+5. Instructional prompting
+
+### Design Prompts: 
+Construct prompts for each technique to cover a range of customer service scenarios.
+
+### Simulate Interactions: 
+Execute prompts via an AI language model and simulate customer interactions.
+
+### Collect Data: 
+Record responses, analyze chatbot performance, and gather user sentiment data.
+
+### Analyze Results: 
+Compare the effectiveness of each technique based on accuracy, engagement, and customer satisfaction.
+
+### Document Findings: 
+Create a scenario-based report summarizing methodology, experiments, observations, and results.
+
+## Prompting Techniques and Examples
+### 1. Zero-shot Prompting
+Prompt Example:
+“You are a helpful customer service assistant. A user has asked, ‘What’s your return policy?’ Provide a clear and concise answer.”
+
+### 2. Few-shot Prompting
+Prompt Example:
+Q: “Do you offer free shipping?”
+A: “Yes, we offer free shipping for orders over $50.”
+Q: “How can I cancel my order?”
+A: “You can cancel your order from the account dashboard within 30 minutes of purchase.”
+Q: “Can I exchange an item without a receipt?”
+
+### 3. Chain-of-Thought Prompting
+Prompt Example:
+“A customer wants to return a product after 35 days, but the return policy allows only 30 days. First analyze the policy, then decide on a possible exception, and provide a diplomatic response.”
+
+### 4. Role-based Prompting
+Prompt Example:
+“You are a friendly and patient customer assistant helping an elderly customer navigate the online store. Guide them step-by-step on how to place an order.”
+
+### 5. Instructional Prompting
+Prompt Example:
+“List the steps a customer must follow to initiate a return request via the mobile app.”
+
+### Observation
+Zero-shot prompting performed well for direct questions but lacked nuance in special cases.
+
+Few-shot prompting handled contextual and policy-related queries more effectively.
+
+Chain-of-thought prompting was particularly effective for logical and policy-enforcement scenarios.
+
+Role-based prompting created a more empathetic and user-focused interaction experience.
+
+Instructional prompting ensured step-by-step clarity in process explanations.
 
 
-Main Objectives:
-
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
-
-•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
-•	Sensors for real-time monitoring of equipment performance.
-•	Predictive maintenance alerts to anticipate equipment failures.
-•	Energy usage optimization by automating the switching of machines on/off based on demand.
-•	Cloud-based dashboards for remote monitoring and control of machinery.
-
-Persona and Context Prompts:
-
-•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
-•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
-•	The system should convey reliability and ease of use, with minimal training required for operators.
-
-### Conclusion
-Result: The various types of Prompts are executed successfully with generated the report.
-
-
-
-
-# Result: Thus the Prompts were exected succcessfully.
+### Result: 
+Thus the Prompts were exected succcessfully .
 
